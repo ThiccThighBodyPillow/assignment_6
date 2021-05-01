@@ -108,7 +108,7 @@ strcpy(site_data, strstr(http_data, "{"));
 
 //PRINT DA JSON, MY FINAL MESSAGE     GOODBYE
 
-//maybe we need to escape the json?? piss your pants maybe?
+//maybe we need to escape the json? idk
 //strcpy(json_esc, site_data);
 
 //new json suturingu desu 
